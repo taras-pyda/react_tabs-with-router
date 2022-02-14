@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CAClB,oBAAqB,CACrB,UAAY,CAHd,iBAMI,cAAe,CAChB,cAGC,SAAU","file":"main.10520414.chunk.css","sourcesContent":[".Link {\n  margin-right: 10px;\n  text-decoration: none;\n  color: black;\n\n  &:last-child {\n    margin-right: 0;\n  }\n\n  &--active {\n    color: red;\n  }\n}\n"]}
